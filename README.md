@@ -1,1 +1,1 @@
-# thermochemistry_methods
+# adsorbate-thermochemistry
