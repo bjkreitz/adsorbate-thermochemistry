@@ -1,0 +1,21 @@
+################################################################################
+#
+#   File patterns for git to ignore
+#
+################################################################################
+
+# MacOS Files
+.DS_Store
+
+# Eclipse project files
+.project
+.pydevproject
+.settings/*
+
+# PyCharm project files
+.idea/*
+
+# C-Compiled scripts
+*.pyc
+
+*.ipynb_checkpoints
